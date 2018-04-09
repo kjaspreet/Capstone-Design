@@ -526,7 +526,9 @@ body{
     width: 50`0px;
     max-width: 100%;
 }
-
+.iframe-wrap{
+	margin-top: 25px;
+}
 @media(max-width: 1199px){
 	.container-res{
 		width: 100%!important;
